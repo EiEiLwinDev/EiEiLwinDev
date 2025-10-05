@@ -22,8 +22,9 @@ AWS | DigitalOcean | Docker | CI/CD | GitHub Actions | DevOps best practices
 PHP | Laravel | Node.js | Express | React | Next.js | Tailwind CSS | Bootstrap
 
 ### 📫 How to reach me
-📧 **Email:** [your-email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile]  
+📧 **Email:** eiei77448@gmail.com, eieilwin.dev@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/ei-ei-lwin
+🌐 **Website:** https://eieilwin.vercel.app
 🌏 Based in Thailand — open to opportunities **anywhere** and **ready to relocate**
 
 ### ⚡ Fun fact
